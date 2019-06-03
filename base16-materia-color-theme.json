@@ -49,7 +49,7 @@
         "activityBarBadge.foreground": "#FFFFFF",
         "sideBar.background": "#2C393F",
         "sideBar.foreground": "#CDD3DE",
-        "sideBarSectionHeader.background": "#707880",
+        "sideBarSectionHeader.background": "#221f2260", //"#707880",
         "sideBarSectionHeader.foreground": "#CDD3DE",
         "sideBarTitle.foreground": "#CDD3DE",
         "editorGroup.emptyBackground": "#263238",
@@ -342,7 +342,7 @@
             "name": "Operator, Misc",
             "scope": [
                 "constant.other.color",
-                "punctuation",
+                // "punctuation",
                 "punctuation.section.class.end",
                 "meta.tag",
                 "punctuation.definition.tag",
@@ -350,7 +350,7 @@
                 "punctuation.definition.tag.html",
                 "punctuation.definition.tag.begin.html",
                 "punctuation.definition.tag.end.html",
-                "keyword.other.template",
+                // "keyword.other.template",
                 "keyword.other.substitution"
             ],
             "settings": {
